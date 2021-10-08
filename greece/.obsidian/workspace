@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "9f4bbfed66357826",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5ef9bebecd564d",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "greece.pdf"
+          }
+        }
+      },
+      {
+        "id": "c5619e4a3b7e0275",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "greece.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "064c941bd50d3984",
+    "type": "split",
+    "children": [
+      {
+        "id": "05658dad3c92cc04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de39005227c7761d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c740c35cde689ede",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f963dc8a96ee67d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4f083c6acd7d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32afdde928d97eb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "greece.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b265ce7fdc5f5e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5619e4a3b7e0275",
+  "lastOpenFiles": [
+    "greece.md",
+    "greece.pdf",
+    "Pasted image 20211005200128.png",
+    "Pasted image 20211008022236.png",
+    "ppl.md",
+    "Untitled.md"
+  ]
+}
