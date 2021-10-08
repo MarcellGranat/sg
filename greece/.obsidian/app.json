@@ -1,5 +1,8 @@
 {
   "foldHeading": true,
   "foldIndent": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "tabSize": 4,
+  "strictLineBreaks": true
 }
