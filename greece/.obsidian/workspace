@@ -7,10 +7,9 @@
         "id": "c5619e4a3b7e0275",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "greece.md",
-            "mode": "source"
+            "file": "greece.pdf"
           }
         }
       },
@@ -80,13 +79,13 @@
               "type": "backlink",
               "state": {
                 "file": "greece.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,12 +95,13 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,11 +112,13 @@
   "lastOpenFiles": [
     "greece.md",
     "greece.pdf",
-    "source.md",
     "Pasted image 20211008022236.png",
+    "Pasted image 20211009032153.png",
+    "Pasted image 20211009034031.png",
+    "Pasted image 20211009034145.png",
     "Pasted image 20211008212322.png",
+    "Source.md",
     "Untitled.md",
-    "Pasted image 20211005200128.png",
-    "ppl.md"
+    "source.md"
   ]
 }
