@@ -207,12 +207,18 @@ Társadalmi rétegek:
 |Appolón|Apollo|Jóshelyek és művészetek istene|
 |Hermész|Mercurius|Kereskedők, vándorok, tolvajok istene|
 |Pallasz Athéne|Minerva|Bölcsesség és tudomány istennője|
+
+
+ ---
+ 
+ | Görög név | Római név | Funkció |
+|:----------:|:-----------:|:-------:|
 |Dionüsszosz|Bacchus|Bor és mámor istene|
 |Héraklész|Hercules|Hérosz, emberfölötti tulajdonságokkal és erővel rendelkező ember, aki végül istenné vált|
 |Prométheusz||A lázadás, elégedetlenséget megtestesítő titán|
  
- ---
- 
+
+---
  
  ![[source#Zeusz]]
  
@@ -222,12 +228,50 @@ Társadalmi rétegek:
  
  ![[source#Aphrodite]]
  
+## A római vallás
  
- ## A római vallás
- 
- ### A római vallás
- - ősi hitviláguk: **totemizmus** (farkas)
- - Hasonlóan antropomorf istenek
- - jóslásnak szintén nagy szerepe volt (bél)
- - a görögökkel való szoros kapcsolat hatására alakult ki a hellenizálódás
-	 - Ellenben a rómaiaknál az állam és vallás összekapcsolódott (pontifexek)
+### A római vallás
+- Ősi hitviláguk: **totemizmus** (farkas)
+- Hasonlóan antropomorf istenek
+- jóslásnak szintén nagy szerepe volt (bél)
+- a görögökkel való szoros kapcsolat hatására alakult ki a hellenizálódás
+ - Ellenben a rómaiaknál az állam és vallás összekapcsolódott (pontifexek)
+	 
+	 
+## Érettségi feladat
+### Érettségi feladat
+|Római isten|Jupiter|Mars|vénus|Minerva|
+|:---|:---:|:---:|:---:|:---:|
+|Görög isten neve| | | | |
+|Leírás betűjele| | | | |
+
+
+Leírások:
+
+- A) Az értelmetlen vérontással és kegyetlen öldökléssel járó hábórúk istene
+- B) A szépség, a szerelem és a termékenység istennője
+- C) A vihar és a villámlás ura, a vendégszeretet, az eskük és a piactér védelmezője, az istenek királya.  
+- D) A földrengés, a folyók és tavak, valamint a tenger és a hajósok istene.  
+
+---
+
+- E) Az igazságos háború, a jog, a művészetek, a mesterségek, az oktatás és a bölcsesség istennője.
+- F) A szülés, a nők és gyermekek védelmezője, a vadállatok úrnője, a Hold és a vadászat istennője
+
+### Érettségi feladat - megoldás
+|Római isten|Jupiter|Mars|vénus|Minerva|
+|:---|:---:|:---:|:---:|:---:|
+|Görög isten neve|Zeusz|Árész|Aphrodité|Pallasz Athéné|
+|Leírás betűjele|C|A|B|E|
+
+Leírások:
+
+- A) Az értelmetlen vérontással és kegyetlen öldökléssel járó hábórúk istene
+- B) A szépség, a szerelem és a termékenység istennője
+- C) A vihar és a villámlás ura, a vendégszeretet, az eskük és a piactér védelmezője, az istenek királya.  
+- D) A földrengés, a folyók és tavak, valamint a tenger és a hajósok istene. 
+
+---
+
+- E) Az igazságos háború, a jog, a művészetek, a mesterségek, az oktatás és a bölcsesség istennője.
+- F) A szülés, a nők és gyermekek védelmezője, a vadállatok úrnője, a Hold és a vadászat istennője
